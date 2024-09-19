@@ -18,6 +18,5 @@ We are a passionate team that believes in providing modern web infrastructure to
 
 
 
-|   [HiveSpace]   |           <a href="https://github.com/HiveSpaceAI/HiveSpace" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" /><img src="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" width="500" alt="HiveSpace Logo" /></picture></a>            |
+|   [HiveSpace]   |           <a href="https://github.com/HiveSpaceAI/Hivespace" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" /><img src="https://github.com/HiveSpaceAI/.github/blob/main/images/1.svg" width="500" alt="Hive Logo" /></picture></a>            |
 | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
