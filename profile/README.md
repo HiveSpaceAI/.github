@@ -3,7 +3,7 @@
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
-<img src="https://github.com/HiveSpaceAI/.github/blob/main/images/cover.png" width="400" alt="toEverything Logo" />
+<img src="https://github.com/HiveSpaceAI/.github/profile/images/cover.png" width="400" alt="toEverything Logo" />
 </div>
 
 <h1 align="center"></h1>
